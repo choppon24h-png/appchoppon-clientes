@@ -1,0 +1,20 @@
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+coverage/
+.idea/
+.vscode/
+*.iml
+local.properties
+.env
+.env.*
+!.env.example
+
+# Android generated files
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
